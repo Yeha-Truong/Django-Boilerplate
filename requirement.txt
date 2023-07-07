@@ -1,0 +1,13 @@
+coreapi
+coreschema
+Django
+django-filter
+django-rest-knox
+djangorestframework
+Markdown
+uritemplate
+pyyaml
+django-cors-headers
+more-itertools
+psycopg2-binary
+sentry-sdk[django]
